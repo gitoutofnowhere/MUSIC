@@ -1,9 +1,5 @@
+.vscode/
+desktop.ini
+.venv/
 __pycache__/
-*.pyc
-*.ipynb_checkpoints
-.env
-venv/
-data/
-models/
-*.pkl
-*.csv
+.ipynb_checkpoints/
